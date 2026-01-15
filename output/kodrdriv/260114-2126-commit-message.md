@@ -1,0 +1,1 @@
+feat: add template registry and applyTemplate for RiotPlan plans
