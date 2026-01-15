@@ -40,3 +40,5 @@ const result = await applyTemplate({
 
 MIT
 
+<!-- v1.0.0 -->
+
