@@ -1,0 +1,1 @@
+docs: add generated commit-message notes output
