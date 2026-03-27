@@ -4,7 +4,7 @@
  * Apply a template to create a new plan.
  */
 
-import { createPlan, type CreatePlanConfig } from "@riotprompt/riotplan";
+import { createPlan, type CreatePlanConfig } from "@kjerneverk/riotplan";
 import { getTemplate, type PlanTemplate } from "./registry.js";
 
 /**
