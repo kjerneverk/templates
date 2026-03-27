@@ -1,5 +1,5 @@
 {
-  "name": "@riotprompt/riotplan-templates",
+  "name": "@kjerneverk/riotplan-templates",
   "version": "1.0.0-dev.0",
   "description": "Starter templates for RiotPlan",
   "type": "module",
@@ -35,7 +35,7 @@
   "author": "Tim O'Brien",
   "license": "Apache-2.0",
   "dependencies": {
-    "@riotprompt/riotplan": "^1.0.0"
+    "@kjerneverk/riotplan": "^1.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^8.57.0",
