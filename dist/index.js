@@ -1,4 +1,4 @@
-import { createPlan as u } from "@riotprompt/riotplan";
+import { createPlan as u } from "@kjerneverk/riotplan";
 const l = /* @__PURE__ */ new Map();
 function s(e) {
   l.set(e.id, e);

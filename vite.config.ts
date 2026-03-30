@@ -18,10 +18,12 @@ export default defineConfig({
         },
         rollupOptions: {
             external: [
-                "@riotprompt/riotplan",
+                "@kjerneverk/riotplan",
                 "node:fs/promises",
                 "node:path",
                 "node:os",
+                "node:crypto",
+                "node:url",
             ],
         },
         outDir: "dist",
